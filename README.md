@@ -5,4 +5,5 @@ Foobar is a web-app that posts a series of challenges which you have a set time 
 
 ## Challenges
 Here are some challenges that I came across.
-* doomsday_fuel
+
+* [doomsday_fuel](https://github.com/crazytaxii/google_foo_bar/tree/master/doomsday_fuel)

@@ -7,3 +7,4 @@ Foobar is a web-app that posts a series of challenges which you have a set time 
 Here are some challenges that I came across.
 
 * [doomsday_fuel](https://github.com/crazytaxii/google_foo_bar/tree/master/doomsday_fuel)
+* [bunny_prisoner_locating](https://github.com/crazytaxii/google_foo_bar/tree/master/bunny_prisoner_locating)

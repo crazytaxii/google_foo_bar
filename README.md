@@ -10,3 +10,17 @@ Here are some challenges that I came across.
 * [bunny_prisoner_locating](https://github.com/crazytaxii/google_foo_bar/tree/master/bunny_prisoner_locating)
 * [re_id](https://github.com/crazytaxii/google_foo_bar/tree/master/re_id)
 * [dont_get_volunteered](https://github.com/crazytaxii/google_foo_bar/tree/master/dont_get_volunteered)
+* [bomb_baby](https://github.com/crazytaxii/google_foo_bar/tree/master/bomb_baby)
+
+## Constraints
+### Java
+Your code will be compiled using standard **Java 7**. It must implement the answer() method in the solution stub.
+
+Execution time is limited. Some classes are restricted (e.g. java.lang.ClassLoader). You will see a notice if you use a restricted class when you verify your solution.
+
+Third-party libraries, input/output operations, spawning threads or processes and changes to the execution environment are not allowed.
+
+### Python
+Your code will run inside a **Python 2.7.6** sandbox.
+
+Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.

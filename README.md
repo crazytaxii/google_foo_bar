@@ -6,11 +6,11 @@ Foobar is a web-app that posts a series of challenges which you have a set time 
 ## Challenges
 Here are some challenges that I came across.
 
-* [doomsday_fuel](https://github.com/crazytaxii/google_foo_bar/tree/master/doomsday_fuel)
-* [bunny_prisoner_locating](https://github.com/crazytaxii/google_foo_bar/tree/master/bunny_prisoner_locating)
-* [re_id](https://github.com/crazytaxii/google_foo_bar/tree/master/re_id)
-* [dont_get_volunteered](https://github.com/crazytaxii/google_foo_bar/tree/master/dont_get_volunteered)
-* [bomb_baby](https://github.com/crazytaxii/google_foo_bar/tree/master/bomb_baby)
+* [doomsday_fuel (level 3)](https://github.com/crazytaxii/google_foo_bar/tree/master/doomsday_fuel)
+* [bunny_prisoner_locating (level 2)](https://github.com/crazytaxii/google_foo_bar/tree/master/bunny_prisoner_locating)
+* [re_id (level 1)](https://github.com/crazytaxii/google_foo_bar/tree/master/re_id)
+* [dont_get_volunteered (level 2)](https://github.com/crazytaxii/google_foo_bar/tree/master/dont_get_volunteered)
+* [bomb_baby (level 3)](https://github.com/crazytaxii/google_foo_bar/tree/master/bomb_baby)
 
 ## Constraints
 ### Java
